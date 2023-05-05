@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc://localhost:3306/uat
+    username: root
+    password: 123456
